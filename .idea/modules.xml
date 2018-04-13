@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Industry.iml" filepath="$PROJECT_DIR$/Industry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Industry/Industry-controller/Industry-controller.iml" filepath="$PROJECT_DIR$/../Industry/Industry-controller/Industry-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Industry/Industry-dao/Industry-dao.iml" filepath="$PROJECT_DIR$/../Industry/Industry-dao/Industry-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Industry/Industry-pojo/Industry-pojo.iml" filepath="$PROJECT_DIR$/../Industry/Industry-pojo/Industry-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Industry/Industry-service/Industry-service.iml" filepath="$PROJECT_DIR$/../Industry/Industry-service/Industry-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Industry/Industry-web/Industry-web.iml" filepath="$PROJECT_DIR$/../Industry/Industry-web/Industry-web.iml" />
+    </modules>
+  </component>
+</project>

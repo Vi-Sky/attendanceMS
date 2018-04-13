@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Industry-controller" />
+        <module name="Industry-dao" />
+        <module name="Industry-pojo" />
+        <module name="Industry-service" />
+        <module name="Industry-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Industry" target="1.5" />
+      <module name="Industry-controller" target="1.5" />
+      <module name="Industry-dao" target="1.5" />
+      <module name="Industry-pojo" target="1.5" />
+      <module name="Industry-service" target="1.6" />
+      <module name="Industry-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

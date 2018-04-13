@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<p>
+
+    <dept name="计算机系">
+        <maj>软件工程</maj>
+        <maj>计算机科学与技术</maj>
+    </dept>
+
+    <dept name="机械工程系">
+        <maj>机械设计制造及其自动化</maj>
+        <maj>产品设计</maj>
+    </dept>
+
+    <dept name="信息工程系">
+        <maj>自动化</maj>
+        <maj>电气工程及其自动化</maj>
+        <maj>通信工程</maj>
+        <maj>电子信息工程</maj>
+    </dept>
+
+    <dept name="建筑系">
+        <maj>建筑学</maj>
+        <maj>环境设计</maj>
+    </dept>
+
+    <dept name="管理系">
+        <maj>财务管理</maj>
+        <maj>信息管理与信息系统</maj>
+        <maj>物流工程</maj>
+        <maj>工程管理</maj>
+        <maj>金融工程</maj>
+    </dept>
+
+    <dept name="社会科学与外国语系">
+        <maj>法学</maj>
+        <maj>英语</maj>
+        <maj>商务英语</maj>
+    </dept>
+
+    <dept name="建筑工程系">
+        <maj>土木工程专业</maj>
+        <maj>环境工程专业</maj>
+        <maj>水利水电工程</maj>
+        <maj>港口航道与海岸工程</maj>
+        <maj>船舶与海洋工程</maj>
+        <maj>给排水科学与工程</maj>
+    </dept>
+
+    <dept name="化工系">
+        <maj>化学工程与工艺</maj>
+        <maj>过程装备与控制工程</maj>
+    </dept>
+
+    <dept name="艺术系">
+        <maj>动画专业</maj>
+    </dept>
+</p>
